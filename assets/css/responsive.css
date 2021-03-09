@@ -8,7 +8,7 @@
  #popup{
   width:325px;
 }
-card-header {
+.card-header {
     background: #78161D;
     padding: 15px;
     color: white;
