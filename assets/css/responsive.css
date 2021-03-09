@@ -1,10 +1,13 @@
  @media screen and (max-width: 480px) {
     .inner {
-      max-width: calc(100% - 3rem); }
-  .input-group{
+      max-width: calc(100% - 3rem); 
+  }
+  .input-group {
    width:300px;
 }
-
+ #popUpMain{
+  width:200px;
+}
 
 @media screen and (max-width: 736px) {
   h1 {
