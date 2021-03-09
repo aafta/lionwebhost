@@ -1,6 +1,9 @@
  @media screen and (max-width: 480px) {
     .inner {
-      max-width: calc(100% - 3rem); } }
+      max-width: calc(100% - 3rem); }
+  .input-group{
+   width:300px;
+}
 
 
 @media screen and (max-width: 736px) {
