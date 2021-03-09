@@ -5,8 +5,16 @@
   .input-group {
    width:300px;
 }
- ##popup{
-  width:200px;
+ #popup{
+  width:325px;
+}
+card-header {
+    background: #78161D;
+    padding: 15px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+}
 }
 
 @media screen and (max-width: 736px) {
